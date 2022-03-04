@@ -1,5 +1,5 @@
 # Web-Browser-Password-Grabber
-Rubber ducky payload that downloads WebBrowserPasswordView file and screenshots / duplicates the passwords. Works for Windows 10.
+This is a Rubber ducky payload that downloads WebBrowserPasswordView file and screenshots / duplicates the passwords. Works for Windows 10.
 
 Note:
 
